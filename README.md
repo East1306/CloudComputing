@@ -1,5 +1,5 @@
 # CloudComputing
-Cloud Computing and Comparision based on Service and Performance between Amazon AWS, Microsoft Azure, and Google Cloud< >< >
+Cloud Computing and Comparision based on Service and Performance between Amazon AWS, Microsoft Azure, and Google Cloud<\\>
 Abstract – Cloud Computing là yêu cầu nguồn từ web với cái phí bạn trả tương ứng việc sử dụng. Thay vào đó mua, vận hành và bảo trì máy tính vật lý, phần cứng và servers, đám mây giải quyết cung ứng như Microsoft
 Azure, Amazon Web Service, Google Platform như là tiến trình năng lượng, bộ nhớ và có sở dữ liệu trên một cơ sở khi cần thiết.< >< >
 Chủ đề này sẽ nghiên cứu mô tả kiến trúc và loại dịch vụ cloud computing. Cũng như kết hợp hiệu suất và dịch vụ của 3 nền tảng cloud computing chính. Tất cả hệ thống được đánh giá trong môi trường ảo giống hệt nhau.< >< >
